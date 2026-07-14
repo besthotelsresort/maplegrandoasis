@@ -1,0 +1,2 @@
+# maplegrandoasis
+Static site: maplegrandoasis
